@@ -1,0 +1,48 @@
+button{
+    padding: 17px;
+    border-radius:15px;
+    color: plum;
+    background: purple;
+    border: none;
+    border: 2px solid white;
+    font-size: 0.9rem;
+    position:relative;
+    position: absolute;
+    
+    margin-top: 215px;
+    
+   
+}
+
+
+html{
+    background: #282828d6;
+}
+
+
+img{
+    width: 150px;
+}
+
+h2{
+    text-align: center;
+    color: plum;
+    font-family: serif;
+    font-style:italic;
+}
+
+h5{
+    color:plum;
+    font-family: serif;
+    text-align: center;
+    
+}
+
+
+
+.container{
+    display:flex;
+    gap: 30px;
+    margin-top: 50px;
+    justify-content:center;
+}
